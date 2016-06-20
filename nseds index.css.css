@@ -1,0 +1,324 @@
+@charset "utf-8";
+#header {
+	height: 768px;
+	width: 1024px;
+	background-image: url(01%E9%A6%96%E9%A0%81/indexmain_bg01.png);
+	margin-left: 150px;
+}
+#logo {
+	height: 150px;
+	width: 150px;
+	padding-left: 0px;
+	margin-left: 37px;
+	margin-top: 350px;
+	float: left;
+}
+#content {
+	height: 600px;
+	width: 1024px;
+	background-color: #6CC;
+	border-top-color: #6CC;
+	border-right-color: #6CC;
+	border-bottom-color: #6CC;
+	border-left-color: #6CC;
+	margin-left: 150px;
+}
+#trip {
+	height: 500px;
+	width: 600px;
+	float: left;
+	margin-left: 35px;
+	margin-top: 50px;
+	background-color: #FFF;
+	font-family: "微軟正黑體";
+}
+#plane {
+	height: 225px;
+	width: 300px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px;
+	background-color: #FFF;
+}
+#backage {
+	height: 225px;
+	width: 300px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px;
+	background-color: #FFF;
+}
+#contactus {
+	height: 100px;
+	width: 1024px;
+	float: left;
+	background-image: url(01%E9%A6%96%E9%A0%81/indexfooter01.png);
+	margin-left: 150px;
+}
+#contactus3 {
+	height: 70px;
+	width: 254px;
+	margin-top: 10px;
+	margin-left: 380px;
+	padding-top: 20px;
+}
+#tripword {
+	height: 50px;
+	width: 550px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	background-color: #099;
+	border-top-color: #099;
+	border-right-color: #099;
+	border-bottom-color: #099;
+	border-left-color: #099;
+	font-family: "微軟正黑體";
+	font-weight: bolder;
+	font-size: 32px;
+	padding-left: 5px;
+	color: #FFFFFF;
+	text-indent: 5px;
+	text-align: left;
+	line-height: 50px;
+}
+#trippic {
+	height: 70px;
+	width: 80px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 25px;
+	background-repeat: no-repeat;
+}
+#trippic2 {
+	height: 70px;
+	width: 80px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+#plane1 {
+	height: 50px;
+	width: 260px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color: #099;
+	border-top-color: #099;
+	border-right-color: #099;
+	border-bottom-color: #099;
+	border-left-color: #099;
+	color: #FFFFFF;
+	font-family: "微軟正黑體";
+	font-weight: bolder;
+	font-size: 32px;
+	line-height: 50px;
+	text-align: left;
+	text-indent: 5px;
+}
+#plane1-1 {
+	height: 50px;
+	width: 75px;
+	margin-left: 20px;
+	margin-top: 20px;
+	float: left;
+	background-image: url(01%E9%A6%96%E9%A0%81/indexplane101.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+#plane1-2 {
+	height: 50px;
+	width: 75px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	background-image: url(01%E9%A6%96%E9%A0%81/indexplane201.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+#plane1-3 {
+	height: 50px;
+	width: 75px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	background-image: url(01%E9%A6%96%E9%A0%81/indexplane301.png);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+#plane1-4 {
+	height: 50px;
+	width: 75px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	background-image: url(01%E9%A6%96%E9%A0%81/indexplane401.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+#plane1-5 {
+	height: 50px;
+	width: 75px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-image: url(01%E9%A6%96%E9%A0%81/indexplane501.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+#backage1 {
+	height: 50px;
+	width: 260px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color: #099;
+	border-top-color: #099;
+	border-right-color: #099;
+	border-bottom-color: #099;
+	border-left-color: #099;
+	color: #FFFFFF;
+	font-family: "微軟正黑體";
+	font-weight: bolder;
+	font-size: 32px;
+	line-height: 50px;
+	text-align: left;
+	text-indent: 5px;
+}
+#backage1-1 {
+	height: 100px;
+	width: 70px;
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+}
+#backage1-2 {
+	height: 100px;
+	width: 70px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+#backage1-3 {
+	height: 100px;
+	width: 70px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+#plane1-6 {
+	height: 50px;
+	width: 75px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	background-image: url(01%E9%A6%96%E9%A0%81/indexplane601.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+#trippic3 {
+	height: 70px;
+	width: 80px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+#trippic4 {
+	height: 70px;
+	width: 80px;
+	margin-top: 10px;
+	margin-left: 20px;
+	float: left;
+}
+#trippic5 {
+	float: left;
+	height: 70px;
+	width: 80px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+#trippic-1 {
+	float: left;
+	height: 70px;
+	width: 450px;
+	margin-left: 20px;
+	margin-top: 25px;
+}
+#trippic2-1 {
+	float: left;
+	height: 70px;
+	width: 450px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+#trippic3-1 {
+	float: left;
+	height: 70px;
+	width: 450px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+#trippic4-1 {
+	float: left;
+	height: 70px;
+	width: 450px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+#trippic5-1 {
+	float: left;
+	height: 70px;
+	width: 450px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.transition {
+	-webkit-transition: all 1s ease 0s;
+	-moz-transition: all 1s ease 0s;
+	-ms-transition: all 1s ease 0s;
+	-o-transition: all 1s ease 0s;
+	transition: all 1s ease 0s;
+}
+.transition:hover {
+	-webkit-opacity: 0.5;
+	-moz-opacity: 0.5;
+	opacity: 0.5;
+}
+#trippic-1-1 {
+	height: 70px;
+	width: 350px;
+	float: right;
+	line-height: 3;
+	font-size: large;
+	text-align: center;
+}
+#trippic2-1-1 {
+	float: right;
+	height: 70px;
+	width: 350px;
+	text-align: center;
+	line-height: 3;
+	font-size: large;
+}
+#trippic3-1-1 {
+	float: right;
+	height: 70px;
+	width: 350px;
+	text-align: center;
+	line-height: 3;
+	font-size: large;
+}
+#trippic4-1-1 {
+	float: right;
+	height: 70px;
+	width: 350px;
+	text-align: center;
+	line-height: 3;
+	font-size: large;
+}
+#trippic5-1-1 {
+	height: 70px;
+	width: 350px;
+	float: right;
+	text-align: center;
+	line-height: 3;
+	font-size: large;
+}

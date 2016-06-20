@@ -1,0 +1,70 @@
+@charset "utf-8";
+#header {
+	height: 200px;
+	width: 1024px;
+	background-image: url(02%E8%83%8C%E5%8C%85%E5%AE%A2/backageheader_bg.png);
+	margin-left: 150px;
+}
+#content {
+	height: 1100px;
+	width: 974px;
+	background-image: url(02%E8%83%8C%E5%8C%85%E5%AE%A2/backagewriter_bg01.png);
+	margin-left: 150px;
+	float: left;
+	padding-left: 50px;
+}
+#footer {
+	height: 100px;
+	width: 1024px;
+	background-image: url(01%E9%A6%96%E9%A0%81/indexfooter.png);
+	float: left;
+	margin-top: 0px;
+	margin-left: 150px;
+}
+#footer2 {
+	height: 70px;
+	width: 254px;
+	margin-top: 10px;
+	margin-left: 380px;
+	float: left;
+	padding-top: 20px;
+}
+#content1 {
+	height: 450px;
+	width: 1000px;
+	margin-top: 20px;
+	margin-left: 12px;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}
+#content2 {
+	height: 500px;
+	width: 420px;
+	margin-left: 10px;
+	margin-top: 50px;
+	float: left;
+	border-top-color: #333;
+	border-right-color: #333;
+	border-bottom-color: #333;
+	border-left-color: #333;
+}
+#content3 {
+	height: 500px;
+	width: 420px;
+	margin-top: 50px;
+	margin-left: 70px;
+	float: left;
+	border-top-color: #333;
+	border-right-color: #333;
+	border-bottom-color: #333;
+	border-left-color: #333;
+}
+#back {
+	float: left;
+	height: 61px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 300px;
+}

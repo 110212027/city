@@ -1,0 +1,123 @@
+@charset "utf-8";
+#header {
+	height: 200px;
+	width: 1024px;
+	background-image: url(%E5%9F%8E%E5%B8%82%E6%BC%AB%E9%81%8Acity%20wander_%E7%B6%B2%E9%A0%81%E7%89%88/03%E9%81%8A%E8%A8%98/new/header_bg.png);
+	float: left;
+	margin-left: 150px;
+}
+#content {
+	height: 750px;
+	width: 1024px;
+	float: left;
+	background-image: url(%E5%9F%8E%E5%B8%82%E6%BC%AB%E9%81%8Acity%20wander_%E7%B6%B2%E9%A0%81%E7%89%88/03%E9%81%8A%E8%A8%98/new/content_bg.png);
+	margin-left: 150px;
+}
+#content1 {
+	height: 200px;
+	width: 439px;
+	margin-left: 43px;
+	margin-top: 10px;
+	float: left;
+}
+#content2 {
+	height: 200px;
+	width: 439px;
+	margin-left: 43px;
+	margin-top: 10px;
+	float: left;
+	color: #028067;
+	font-family: "微軟正黑體";
+}
+#footer {
+	height: 100px;
+	width: 1024px;
+	float: left;
+	background-image: url(%E5%9F%8E%E5%B8%82%E6%BC%AB%E9%81%8Acity%20wander_%E7%B6%B2%E9%A0%81%E7%89%88/03%E9%81%8A%E8%A8%98/new/footer.png);
+	margin-left: 150px;
+}
+#footer3 {
+	height: 70px;
+	width: 254px;
+	margin-left: 380px;
+	margin-top: 10px;
+	float: left;
+	padding-top: 20px;
+}
+#header1 {
+	height: 85px;
+	width: 85px;
+	margin-left: 895px;
+	margin-top: 10px;
+}
+#header2 {
+	height: 60px;
+	width: 481px;
+	margin-left: 500px;
+	margin-top: 10px;
+	background-color: #1BD8C9;
+	text-align: center;
+	font-family: "微軟正黑體";
+	font-size: 50px;
+	color: #FFFFFF;
+	font-weight: bolder;
+	font-variant: small-caps;
+	text-indent: 5px;
+	float: left;
+	font-style: normal;
+}
+#contentpic {
+	height: 250px;
+	width: 938px;
+	margin-left: 43px;
+}
+#header2-1 {
+	height: 60px;
+	width: 250px;
+	float: right;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 20px;
+	font-weight: bolder;
+	padding-right: 20px;
+	font-family: "微軟正黑體";
+	font-style: normal;
+}
+#content3 {
+	float: left;
+	height: 200px;
+	width: 439px;
+	margin-top: 50px;
+	margin-left: 43px;
+}
+#content4 {
+	float: left;
+	height: 200px;
+	width: 439px;
+	margin-top: 50px;
+	margin-left: 43px;
+	font-family: "微軟正黑體";
+	color: #028067;
+}
+.transition {
+	-webkit-transition: all 1s ease 0s;
+	-moz-transition: all 1s ease 0s;
+	-ms-transition: all 1s ease 0s;
+	-o-transition: all 1s ease 0s;
+	transition: all 1s ease 0s;
+}
+.transition:hover {
+	-webkit-opacity: 0.5;
+	-moz-opacity: 0.5;
+	opacity: 0.5;
+}
+body{ cursor: url(http://ashine0118.myweb.hinet.net/wing2.ani); }                   
+a:hover {cursor:url('http://ashine0118.myweb.hinet.net/wing2.ani')}   
+
+#back {
+	height: 61px;
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 300px;
+	float: left;
+}
